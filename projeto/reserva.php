@@ -4,8 +4,8 @@ include("conexao.php");
    $cod=$_POST['cod'];
    $email=$_POST['email'];
 
-   $clm="INSERT INTO reservas (nome,cod,senha) 
-   values('$nome','$cod','$senha')";
+   $clm="INSERT INTO reservas (nome,cod,email) 
+   values('$nome','$cod','$email')";
 
  if (mysqli_query($conexao,$clm)) {
      echo "Usuário cadastrado com sucesso";
