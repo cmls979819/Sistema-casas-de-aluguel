@@ -7,7 +7,7 @@ include("conexao.php");
    values('$nome','$senha')";
 
  if (mysqli_query($conexao,$edm)) {
-     echo "Usuário cadastrado com sucesso";
+     echo "Cadastrado com sucesso";
  }
  else{
      echo "ERRO".mysqli_connect_error($conexao);
