@@ -8,9 +8,11 @@ include("conexao.php");
 
    $ads="INSERT INTO interessado (nome, email) 
    values('$nome','$email')";
+   header("Location: pagina.html");
+   die();
 
  if (mysqli_query($conexao,$ads)) {
-     echo "Usuário cadastrado com sucesso";
+     echo "Usuário cadastrado com sucesso!";
  }
  else{
      echo "ERRO".mysqli_connect_error($conexao);

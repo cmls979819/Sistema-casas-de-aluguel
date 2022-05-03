@@ -13,6 +13,8 @@ include("conexao.php");
  else{
      echo "ERRO".mysqli_connect_error($conexao);
  }
+ header("Location: index.html");
+ die();
  mysqli_close($conexao);
 
  ?>
