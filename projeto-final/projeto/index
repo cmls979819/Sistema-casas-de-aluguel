@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/slick.css">
+    <title>Bem Vindo</title>
+</head>
+
+<body>
+    <header class="menu-principal">
+        <main>
+            <div class="header-1">
+                <div class="topo">
+                    <img src="./img/topo.jpg" />
+                
+            </div>
+            </div>
+        </main>
+    </header>
+    <main class="col-100 menu-urls">
+        <div class="header-2">
+            <div class="menu">
+                <ul>
+                    
+                     
+                    <li>
+                        <a href="usuario.html">Login</a>
+                    </li>
+                    <li>
+                        <a href="pagina.html">Veja os imóveis disponíveis</a>
+                    </li>
+                   
+                </ul>
+            </div>
+            </div>
+    </main>
+   
+    <div class="col-100">
+        <div class="content texto-destaque">
+            <h1>Aluga Fácil <strong>site para achar rápido seu imóvel</strong> em Poços de Caldas</h1>
+            <p>O objetivo desse site esse site pensamos em
+                 algo que se relacionasse com a necessidade de fornecer moradias
+                para pessoas que gostariam de estudar
+                 no campus de Poços de Caldas mas que moravam em outras cidades.
+                </p>
+
+            <div class="col-3 bloco-texto">
+                <img src="./img/carro.png" />
+                <h3><b>Aluga Fácil</b> é simples</h3>
+                <p>Veja tudo o que temos a oferecer
+                </p>
+            </div>
+            <div class="col-3 bloco-texto" style="margin-top: 6em;">
+                <img src="./img/serra.png" />
+                <h3><b>Aluga Fácil</b> é simples</h3>
+                <p>  Faça seu cadastro
+                </p>
+            </div>
+            <div class="col-3 bloco-texto">
+                <img src="./img/arroz.png" />
+                <h3><b>Aluga Fácil</b> é simples</h3>
+                <p>Tenha acesso direto com o proprietário
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-100 bloco-imagens-texto">
+        <div class="content" style="margin-left: 24%; float: left;">
+            <div class="col-3 bloco-texto bloco-imagem">
+                <img src="./img/foto2.jpg">
+                <p><b>Aluga Fácil</b></p>
+                <p>Um site fácil onde você encontrará as melhores ofertas
+                </p>
+            </div>
+            <div class="col-3 bloco-texto bloco-imagem">
+                <img src="./img/foto1.jpg">
+                <p><b>Aluga Fácil</b></p>
+                <p>Entre e veja nossos preços e acomodações
+                </p>
+            </div>
+            <div class="col-3 bloco-texto bloco-imagem">
+                <img src="./img/foto10.jpg">
+                <p><b>Aluga Fácil é simples</b></p>
+                <p>Estude em Poços de Caldas, conheça o Campus e a cidade
+                </p>
+            </div>
+        </div>
+        <div class="content" style="margin-left: 24%; float: left;">
+            <div class="col-3 bloco-texto bloco-imagem">
+                <img src="./img/foto8.jpg">
+                <p><b>Aluga Fácil</b></p>
+                <p>As melhores ofertas
+                </p>
+            </div>
+            <div class="col-3 bloco-texto bloco-imagem">
+                <img src="./img/topo.jpg">
+                <p><b>Aluga Fácil </b></p>
+                <p>Aqui você visualiza o que você busca
+                </p>
+            </div>
+            <div class="col-3 bloco-texto bloco-imagem">
+                <img src="./img/foto6.jpg">
+                <p><b>Aluga Fácil</b></p>
+                <p>Melhores acomodações práticas e com endereços disponíveis
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-100 bloco-logos">
+        <div class="content">
+            <div class="col-4">
+                <img alt />
+            </div>
+            <div class="col-4">
+                
+            </div>
+            <div class="col-4">
+                <br />
+                <img alt="logo" title="logo" src="img/logo.png" />
+            </div>
+            <div class="col-4">
+                
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="col-100 footer">
+            <div class="content">
+                <div class="col-4">
+                    <h3><b>Aluga Fácil</b></h3>
+                    <p>Um site que oferece várias opções</p>
+                    <p class="clock">Abril de 2022</p>
+                            <p>Ficamos felizes por tê-lo em nosso site</p>
+                            <p class="clock">Abril de 2022</p>
+                </div>
+                <div class="col-4">
+                    <h3><b>Olá amigo cliente</b></h3>
+                    <p>Pensando em morar em Poços de Caldas, venha conhecer nosso site de locação,<br>
+                         voltado para estudades que procuraram residir em Poços para estudar</p>
+                </div>
+                <div class="col-4">
+                    <h3><b>Aluga Fácil</b></h3>
+                    <p>
+                        Aqui você achará o busca
+                    </p>
+                </div>
+                <div class="col-4">
+                    <h3><b>Admistrador</b></h3>
+                    <p>
+                       O administrador estará a sua disposição.
+                    </p>
+                    <p class="local">Poços de Caldas</p>
+                            <p class="emailico">cvm@email.com</p>
+                                    <p class="telefoneico">890-09880-45590</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="col-100 footer-2">
+        <div class="content">
+
+            <p>
+                Se não encontrar o que busca fale com administrador ele estará atento a procurar<br>
+                sua melhor acomodação. Mande um email: cvm@email.com
+            </p>
+        </div>
+    </div>
+   
+    <script type="text/javascript" src="./js/main.js"></script>
+</body>
+
+</html>
